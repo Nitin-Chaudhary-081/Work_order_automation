@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Work Order Traveler to Excel Automation">
+</p>
+
 # Work Order Traveler → Excel Automation
 
 Windows background automation: watches a `data/` folder, sends new work order
